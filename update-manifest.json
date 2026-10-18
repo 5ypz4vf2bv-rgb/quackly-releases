@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "enabled": false,
+  "version": "3.2.0-preview.5.8.2",
+  "notes": "Public automatic updates are not enabled until both platform installers are deliberately approved and published.",
+  "platforms": {}
+}
